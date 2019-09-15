@@ -1,0 +1,21 @@
+[09-Nov-2012 06:55:03] PHP Parse error:  syntax error, unexpected '[' in /home3/alanmand/public_html/tictactoe/setUp.php on line 6
+[09-Nov-2012 06:55:50] PHP Parse error:  syntax error, unexpected '[' in /home3/alanmand/public_html/tictactoe/setUp.php on line 6
+[09-Nov-2012 06:56:04] PHP Parse error:  syntax error, unexpected '[' in /home3/alanmand/public_html/tictactoe/setUp.php on line 7
+[09-Nov-2012 06:56:16] PHP Parse error:  syntax error, unexpected '[' in /home3/alanmand/public_html/tictactoe/setUp.php on line 7
+[09-Nov-2012 06:56:43] PHP Parse error:  syntax error, unexpected '[' in /home3/alanmand/public_html/tictactoe/setUp.php on line 7
+[09-Nov-2012 06:56:58] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home3/alanmand/public_html/tictactoe/setUp.php on line 7
+[09-Nov-2012 06:58:19] PHP Parse error:  syntax error, unexpected T_AS, expecting ';' in /home3/alanmand/public_html/tictactoe/setUp.php on line 8
+[09-Nov-2012 13:27:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home3/alanmand/public_html/tictactoe/getBestMove.php on line 5
+[09-Nov-2012 13:27:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/alanmand/public_html/tictactoe/getBestMove.php on line 5
+[12-Nov-2012 13:32:10] PHP Parse error:  syntax error, unexpected '[' in /home3/alanmand/public_html/tictactoe/setUp2.php on line 7
+[12-Nov-2012 13:32:27] PHP Parse error:  syntax error, unexpected '[' in /home3/alanmand/public_html/tictactoe/setUp2.php on line 7
+[12-Nov-2012 13:38:54] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home3/alanmand/public_html/tictactoe/setUp2.php on line 17
+[12-Nov-2012 13:44:54] PHP Warning:  Missing argument 2 for makeMoves(), called in /home3/alanmand/public_html/tictactoe/setUp2.php on line 10 and defined in /home3/alanmand/public_html/tictactoe/setUp2.php on line 11
+[12-Nov-2012 13:44:54] PHP Fatal error:  __clone method called on non-object in /home3/alanmand/public_html/tictactoe/setUp2.php on line 12
+[12-Nov-2012 13:47:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home3/alanmand/public_html/tictactoe/setUp2.php on line 12
+[12-Nov-2012 13:47:15] PHP Warning:  Missing argument 2 for makeMoves(), called in /home3/alanmand/public_html/tictactoe/setUp2.php on line 10 and defined in /home3/alanmand/public_html/tictactoe/setUp2.php on line 11
+[12-Nov-2012 13:47:15] PHP Warning:  Wrong parameter count for copy() in /home3/alanmand/public_html/tictactoe/setUp2.php on line 12
+[12-Nov-2012 13:47:28] PHP Warning:  Missing argument 2 for makeMoves(), called in /home3/alanmand/public_html/tictactoe/setUp2.php on line 10 and defined in /home3/alanmand/public_html/tictactoe/setUp2.php on line 11
+[12-Nov-2012 13:47:28] PHP Warning:  Wrong parameter count for copy() in /home3/alanmand/public_html/tictactoe/setUp2.php on line 12
+[12-Nov-2012 13:47:41] PHP Warning:  Wrong parameter count for copy() in /home3/alanmand/public_html/tictactoe/setUp2.php on line 12
+[12-Nov-2012 13:48:02] PHP Fatal error:  __clone method called on non-object in /home3/alanmand/public_html/tictactoe/setUp2.php on line 12

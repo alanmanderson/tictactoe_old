@@ -1,0 +1,54 @@
+#board{
+  width: 600px;
+  clear:both;
+}
+
+.square{
+  float:left;
+  width: 30%;
+  border-style:solid;
+  height: 200px;
+  font-size: 170px;
+  text-align: center;
+  
+}
+
+.topleft{
+  border-width: 0px 3px 3px 0px;
+}
+
+.topcenter {
+  border-width: 0px 3px 3px 3px;
+}
+
+.topright {
+  border-width: 0px 0px 3px 3px;
+}
+
+.centerleft{
+  border-width: 3px 3px 3px 0px;
+  clear: both;
+}
+
+.centercenter {
+  border-width: 3px 3px 3px 3px;
+}
+
+.centerright {
+  border-width: 3px 0px 3px 3px;
+}
+
+.bottomleft{
+  border-width: 3px 3px 0px 0px;
+  clear: both;
+}
+
+.bottomcenter {
+  border-width: 3px 3px 0px 3px;
+}
+
+.bottomright {
+  border-width: 3px 0px 0px 3px;
+}
+
+

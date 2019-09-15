@@ -1,0 +1,13 @@
+<?php
+$_SESSION["db"]="tictactoe";
+include_once('../commons/dbconnect.php');
+
+
+$board = htmlentities($_GET['board']);
+
+$query = "SELECT Score FROM moves WHERE BoardState='$board'";
+$result = mysql_query($query) or die(mysql_error());
+$row = mysql_fetch_array($result);
+echo json_decode($row['Score']);
+
+?>

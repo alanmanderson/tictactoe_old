@@ -1,0 +1,14 @@
+<?php
+include_once('../commons/checkauth.php');
+$_SESSION["db"]="tictactoe";
+include_once('../commons/dbconnect.php');
+
+$values = ["X","","O"];
+$board = "";
+for($values as $val){
+  $board.=$val.","
+
+
+for($i=0;$i<9;$i++){
+  
+}
